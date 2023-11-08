@@ -155,3 +155,4 @@ cython_debug/
 # MISC
 .DS_STORE
 *.swp
+/res/output
