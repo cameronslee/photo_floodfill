@@ -12,7 +12,8 @@ a new color using the flood fill algorithm.
 
 As you can see, the background of the example image is replaced with a new color.
 
-However, there are multiple shades of yellow present. I will be looking to address this with a "flood range" or "color tolerance" setting 
+However, color replacement is still not perfect as there are still some edges
+that "bleed" of the original color
 
 ## Usage
 ```
