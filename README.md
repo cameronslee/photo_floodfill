@@ -1,5 +1,9 @@
 # Photo Flood Fill
-
+## Install Dependencies
+OpenCV
+```
+$ pip install opencv 
+```
 ## Objective
 Determine the most prominent color in target image, and replace that color with
 a new color using the flood fill algorithm.
